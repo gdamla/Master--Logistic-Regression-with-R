@@ -1,8 +1,8 @@
 # ADULT INCOME DATA / LOGISTIC REGRESSION MODEL
-# Gülhan Damla Aþýk - 2000136
+# GÃ¼lhan Damla AÅŸÄ±k - 2000136
 
 getwd()
-setwd("C:/Users/user/Desktop/BAU Lessons/2- Marketing Analysis/Hands On Exercises/2- Adult Income Dataset R_glm")
+setwd("C:/Users/user/.../2- Adult Income Dataset R_glm")
 
 # READING # data
 AdultIncomeData <- read.csv("adult_income.csv", header =T)
@@ -417,10 +417,3 @@ head(VarImportance)
 # 1                                age 11.361947
 # 48                      capital_loss  9.499026
 # 31        occupation Exec-managerial  7.436940
-
-
-
-
-
-
-
