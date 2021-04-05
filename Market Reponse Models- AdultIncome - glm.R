@@ -1,5 +1,5 @@
 # ADULT INCOME DATA / LOGISTIC REGRESSION MODEL
-# Gülhan Damla Aşık - 2000136
+# Gülhan Damla Aşık
 
 getwd()
 setwd("C:/Users/user/.../2- Adult Income Dataset R_glm")
